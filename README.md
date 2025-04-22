@@ -2,11 +2,13 @@
 
 <h3 align="center">Electrical Enginer | Software Developer</h3>
 
-- 🔭 I’m a Systems Engineer | Full Stack Software Dev
+- 🔭 I’m a Systems Engineer | Full Stack Software Dev.
   
-- 🌱 I’m currently expanding my knowledge in Embedded RT Systems and Linux
+- 🌱 I’m currently expanding my knowledge in Embedded Linux Systems.
 
 - ⚙️ I’m proficient in C#, ASP.NET, C, Python, JS, SQL, BASH, Web and more, with experience across Azure, Virtualization, and GIT.
+
+- 👩‍💻 I have an interest in open source software and development, automation and RT systems.
 
 
 <h3 align="left">Languages and Tools:</h3>
