@@ -1,8 +1,14 @@
- ## Hi there 👋 this is Lucas
+ ##  👋 Hi there this is Lucas
 
 ## Electrical Enginer | Software Developer
 
-- 🔭 I’m a Systems Enginerr | Full Stack Software Dev
+- 🔭 I’m a Systems Engineer | Full Stack Software Dev
+  
+- 🌱 I’m currently expanding my knowledge in Embedded RT Systems and Linux
+
+-  ⚙️ I’m proficient in C#, ASP.NET, C, Python, C#, JS, and more, with experience across Azure, Virtualization, and GIT.
+
+-  
 <!--
 **rett84/rett84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
