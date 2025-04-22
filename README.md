@@ -1,5 +1,8 @@
-## Hi there 👋
+ ## Hi there 👋 this is Lucas
 
+## Electrical Enginer | Software Developer
+
+- 🔭 I’m a Systems Enginerr | Full Stack Software Dev
 <!--
 **rett84/rett84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
