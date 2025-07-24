@@ -1,6 +1,6 @@
  <h1 align="center">  👋 Hi there this is Lucas</h1>
 
-<h3 align="center">Electrical Engineer | Software Developer</h3>
+<h3 align="center">Electrical Engineer | Software Engineer</h3>
 
 - 🔭 I’m an Engineer | Software Dev.
   
