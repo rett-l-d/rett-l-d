@@ -1,4 +1,4 @@
- <h1 align="center">  👋 Hi there this is Lucas</h1>
+ <h1 align="center">  👋 Hi there this is Damiano Lucas</h1>
 
 <h3 align="center">Electrical Engineer | Software Engineer</h3>
 
