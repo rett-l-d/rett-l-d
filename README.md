@@ -36,7 +36,7 @@
 </p>
  
 <!--
-**rett84/rett84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rett-l-d/rett-l-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
