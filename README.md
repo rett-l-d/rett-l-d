@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently expanding my knowledge in DevOps(containerization, CI/CD) and Linux Systems Programming(kernel/driver development).
 
-- ⚙️ I have knowledge in C#, ASP.NET, C, Python, JS, SQL, BASH, Web plus Azure webapps hosting, Virtualization, and GIT.
+- ⚙️ I have knowledge in C#, ASP.NET, C, Python, Javascript, TypeScript, SQL, BASH, Web plus Azure webapps hosting, Virtualization, and GIT.
 
 - 👩‍💻 I have an interest in open source software and development, automation and RT Embedded Linux Systems.
 
