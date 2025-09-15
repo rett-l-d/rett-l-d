@@ -4,7 +4,7 @@
 
 - 🔭 I’m an Engineer | Software Dev.
   
-- 🌱 I’m currently expanding my knowledge in DevOps(containerization, CI/CD) and Linux Systems Programming(kernel/driver development).
+- 🌱 I’m currently expanding my knowledge in DevOps(containerization, CI/CD) and Linux Systems Programming(kernel/driver development) C/C++.
 
 - ⚙️ I have knowledge in C#, ASP.NET, C, Python, Javascript, TypeScript, SQL, BASH, Web plus Azure webapps hosting, Virtualization, and GIT.
 
