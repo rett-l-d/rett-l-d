@@ -8,7 +8,7 @@
 
 - ⚙️ I have knowledge in C#, ASP.NET, C, Python, Javascript, TypeScript, SQL, BASH, Web plus Azure webapps hosting, Virtualization, and GIT.
 
-- 👩‍💻 I have an interest in open source software and development, automation and RT Embedded Linux Systems, Linux Systems Programming(kernel/driver development) and control/mechatronic systems.
+- 👩‍💻 I have an interest in open source software and development, automation and RT Embedded Linux Systems, Linux Systems Programming(kernel/driver development), IoT,  and control/mechatronic systems.
 
 
 <h3 align="left">Languages and Tools:</h3>
