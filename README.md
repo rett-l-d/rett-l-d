@@ -3,8 +3,6 @@
 <h3 align="center">Electrical Engineer | Software Engineer</h3>
 
 - 🔭 I’m an Engineer | Software Dev.
-  
-- 🌱 I’m currently expanding my knowledge in DevOps(containerization, CI/CD).
 
 - ⚙️ I have knowledge in C#, ASP.NET, C/C++, Python, Javascript, TypeScript, SQL, BASH, Web plus Azure webapps hosting, Virtualization, and GIT.
 
